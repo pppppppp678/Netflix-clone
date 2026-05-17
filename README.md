@@ -1,5 +1,5 @@
 🎬 Netflix-Core: High-Throughput Media Ingestion & HLS Pipeline
-Developed by: Prem Narayan Bashyal (Senior Software Engineer)
+Developed by: Prem Bashyal
 
 An enterprise-grade media processing and adaptive bitrate streaming microservice architecture simulation built using Python and FFmpeg core.
 
